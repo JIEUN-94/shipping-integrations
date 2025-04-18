@@ -18,11 +18,10 @@
 
 | 분야       | 주요 API 연동 사례 |
 |------------|--------------------|
-| 해외배송    | DHL, FedEx, SF Express, Asendia, Fastbox |
-| 국내배송    | CJ대한통운, Logen, 11MY, Lineclear, Fastbox |
+| 해외배송    | DHL, FedEx, SF Express, Asendia, Fastbox, 11MY, Lineclear, Ninjavan |
+| 국내배송    | CJ대한통운, Logen |
 | 이커머스    | Rakuten, Qoo10, Shopify |
 | 트래킹      | 17Track, Aftership |
-| 기타 플랫폼 | Ninjavan, 등 기타 파트너 API |
 
 ※ 본 레포지토리에는 위 중 일부를 **SOAP / REST / Webhook 통신 방식 기준**으로 분류하여 코드 예시로 제공합니다.
 
